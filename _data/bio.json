@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "name": "Nurit Kirshenbaum",
+    "label": "Junior Researcher",
+    "picture": "https://www2.hawaii.edu/~nuritk/nuritk.jpg",
+    "email": "nuritk@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "website": "https://nuritk.github.io",
+    "summary": "I am a Junior Researcher (post-doc) in the Computer Sciences department at the University of Hawaii. I work with Jason Leigh in the Laboratory for Advanced Visualizations and Applications.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "nuritk", "url": "https://github.com/nuritk" },
+      { "network": "facebook", "username": "nurit.kirshenbaum", "url": "https://www.facebook.com/nurit.kirshenbaum" },
+      { "network": "twitter", "username": "iamnurki", "url": "https://twitter.com/iamnurki" },
+      { "network": "youtube", "username": "iamnurki", "url": "https://www.youtube.com/iamnurki" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Human Computer Interaction" },
+    { "name": "Tangible User Interfaces" },
+    { "name": "Mixed Media" },
+    { "name": "Visualization" },
+    { "name": "Collaborative Work" }
   ],
   "skills": [
     {
