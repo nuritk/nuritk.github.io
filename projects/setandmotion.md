@@ -14,7 +14,7 @@ summary: "Set&Motion was originally called ShowFlow. It was created for the Stud
 ---
 <div class="text-center p-4">
   <img width="200px" src="../img/setmotion/overview.png" class="img-thumbnail" >
-  <img width="200px" src="../img/setmotion/scenetab.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/setmotion/scenetab.png" class="img-thumbnail" >
   <img width="200px" src="../img/setmotion/resourcetab.png" class="img-thumbnail" >
   <img width="200px" src="../img/setmotion/codetab.png" class="img-thumbnail" >
 </div>
