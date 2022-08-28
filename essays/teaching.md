@@ -17,6 +17,7 @@ In Fall 2016 I taught CM 315 *Interactive Applications* in the Creative Media de
 Each class included a section on interactive applications' design and a section on Lua programming. Slides are available here (all materials written by me).
 
 Interaction
+...
 
 I've been a teaching assistant between 2014 and 2018. Below is the list of courses I've TAed for: (descriptions taken from course catalog)
 
