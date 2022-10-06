@@ -9,15 +9,16 @@ labels:
   - visualization
   - drone
   - tools
-summary: "Set&Motion was originally called ShowFlow. It was created for the Student Inovation Contest for UIST conference 2015, where the demo of the tool was presented along with the show *Zee's mystery*. The tool won the award for best Software innovation."
+summary: "Working with scientists from applied math and micro-biome research, in this project we tried to develop ways to visualize and stream in real-time the flight of a drone in an area of interest. The purpose of the project is to allow researchers in the lab to view current and past images from the area of interest and detect changes in colors or other factors that may indicate a need to collect micro-biome samples from specific sites."
 ---
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/NzuZ7XvN8pQ"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[YouTube video](https://youtu.be/NzuZ7XvN8pQ)
+
+<div class="ratio ratio-4x3 my-4">
+  <iframe src="https://youtu.be/NzuZ7XvN8pQ" 
+          title="Drone flight visualization" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+

@@ -10,5 +10,5 @@ labels:
   - processing
   - tui
   - bendable
-summary: "Set&Motion was originally called ShowFlow. It was created for the Student Inovation Contest for UIST conference 2015, where the demo of the tool was presented along with the show *Zee's mystery*. The tool won the award for best Software innovation."
+summary: "Often, tangible user interfaces use non-idiomatic forms of interaction. For this project, I was intersted in understanding such an interaction - bend gestures. I designed and developed interactive bendable game cards called PEPA (Paper-like Entertainment Platform Agents) and tried to understand if an application works well with bend gestures."
 ---

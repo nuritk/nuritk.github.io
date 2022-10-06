@@ -6,9 +6,10 @@ title: "SAGE3"
 date: 2022
 published: true
 labels:
-  - Animatronics
-  - Arduino
-  - Processing
-  - Authoring tool
-summary: "Set&Motion was originally called ShowFlow. It was created for the Student Inovation Contest for UIST conference 2015, where the demo of the tool was presented along with the show *Zee's mystery*. The tool won the award for best Software innovation."
+  - collaboration
+  - visualization
+  - tools
+  - AI
+summary: "SAGE3, the Smart Amplified Group Environment is a rethinking of the successful SAGE2 system for collaboration between scientist fit for modern work scenarios of hybrid co-located and online meetings, and equiped with an AI engine that makes it easier for scientist to access AI capabilities for their analysis work."
 ---
+More on the project in its [announcement](https://www.lavaflow.info/post/collaborative-data-analysis-gets-artificial-intelligence-boost-with-5m-nsf-grant) and the project's [official website](http://sage3.sagecommons.org/).
